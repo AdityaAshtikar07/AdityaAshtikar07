@@ -74,9 +74,6 @@
     border-radius: 18px;
     box-shadow: 0 0 20px rgba(0,255,247,0.35);
   ">
-    <h3>🌐 Portfolio Website</h3>
-    <p>Modern animated portfolio built with HTML, CSS & JavaScript.</p>
-  </div>
 
   <div style="
     background: rgba(255,255,255,0.08);
@@ -84,9 +81,6 @@
     border-radius: 18px;
     box-shadow: 0 0 20px rgba(255,0,255,0.35);
   ">
-    <h3>🎮 Mini Games</h3>
-    <p>Interactive browser games with smooth UI animations.</p>
-  </div>
 
   <div style="
     background: rgba(255,255,255,0.08);
@@ -94,9 +88,6 @@
     border-radius: 18px;
     box-shadow: 0 0 20px rgba(0,255,247,0.35);
   ">
-    <h3>📦 GitHub Projects</h3>
-    <p>Clean, optimized repositories focused on learning & growth.</p>
-  </div>
 
 </div>
 
