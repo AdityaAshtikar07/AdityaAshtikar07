@@ -104,17 +104,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaAshtikar07&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaAshtikar07&theme=tokyonight" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api
+    ?username=AdityaAshtikar07
+    &show_icons=true
+    &theme=tokyonight
+    &hide_border=true
+    &count_private=true"
+    height="180"
+  />
 </div>
-
-<hr style="
-  height: 4px;
-  background: linear-gradient(90deg, #00fff7, #ff00ff);
-  border: none;
-  border-radius: 6px;
-  margin: 50px 0;
-">
 
 <hr style="
   height: 4px;
